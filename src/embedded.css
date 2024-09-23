@@ -198,6 +198,7 @@ a.rrr {
 .lastfm__box {
     display: flex;
     max-width: 420px;
+    min-width:360px;
     padding: 16px;
     border-left: 4px solid var(--header);
     background: var(--darkCol);
