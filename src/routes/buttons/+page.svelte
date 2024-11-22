@@ -160,6 +160,7 @@
         /></a
     >
     <img src="/buttons/wii.png" alt="an 88 by 31 button of the wii logo, black on grey background" />
+	<iframe src="//incr.easrng.net/badge?key=stitch" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
     <!--
         <img src="/buttons/" alt="an 88 by 31 button ">
         -->
