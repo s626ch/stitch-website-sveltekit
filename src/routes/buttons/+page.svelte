@@ -6,6 +6,17 @@
         alt="liloandstit.ch 88 by 31 button with Stitch and Angel on it, and with palm trees to the sides."
     /><img src="/buttons/stitch-alt.png" alt="liloandstit.ch 88 by 31 button with palm trees to the sides." />
 </p>
+<h1 class="bb cnt nfw brd">Wifey pookington :3</h1>
+<h2 class="ub wht cnt">&#128153;</h2>
+<p class="cnt">
+    <a href="https://percocet.monster/" target="_blank"
+        ><img
+            src="/buttons/percocet.png"
+            alt="an 88 by 31 button of a percocet pill"
+            title="percocet.monster"
+        /></a
+    >
+</p>
 <h1 class="bb cnt nfw brd">Other buttons</h1>
 <h2 class="ub wht cnt">Mostly friends, other interests, or anything really!</h2>
 <p class="cnt">
@@ -85,6 +96,13 @@
             title="vaje.neocities.org"
         /></a
     >
+    <a href="https://www.youtube.com/watch?v=3FWCvzduYZg" target="_blank"
+        ><img
+            src="/buttons/9-11.gif"
+            alt="Terrorist Attacks Can Shake The Foundations Of Our Biggest Buildings But They Cannot Touch The Foundation Of Footwerk."
+            title="Terrorist Attacks Can Shake The Foundations Of Our Biggest Buildings But They Cannot Touch The Foundation Of Footwerk."
+        /></a
+    >
     <img src="/buttons/3ds.png" alt="an 88 by 31 button with the nintendo 3DS logo on a grey background" />
     <img src="/buttons/acab.gif" alt="an 88 by 31 button with 'a c a b' on it" />
     <img
@@ -122,6 +140,13 @@
             src="/buttons/paintnet.gif"
             alt="an 88 by 31 button with the paint dot net logo to the left, and 'get paint.net' to the right, black on grey background"
             title="getpaint.net"
+        /></a
+    >
+    <a href="https://youtube.com/watch?v=6_c2ZLCr5Nk" target="_blank"
+        ><img
+            src="/buttons/lexibook.png"
+            alt="an 88 by 31 button with the Lexibook logo in the center, white logo on navy blue background"
+            title="The Lexibook JG7420 TV Games Console! (Plug and Plague)"
         /></a
     >
     <img
