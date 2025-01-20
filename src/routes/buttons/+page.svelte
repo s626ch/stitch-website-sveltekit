@@ -20,7 +20,7 @@
 </p>
 <h1 class="bb cnt nfw brd">Other buttons</h1>
 <h2 class="ub wht cnt">Mostly friends, other interests, or anything really!</h2>
-<p class="cnt">
+<p class="cnt" style="margin-right:69px;">
     <a href="https://azumanga.xyz/" target="_blank"
         ><img
             src="/buttons/osaka.png"
