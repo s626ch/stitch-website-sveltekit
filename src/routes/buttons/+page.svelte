@@ -5,6 +5,7 @@
         src="/buttons/stitch.png"
         alt="liloandstit.ch 88 by 31 button with Stitch and Angel on it, and with palm trees to the sides."
     /><img src="/buttons/stitch-alt.png" alt="liloandstit.ch 88 by 31 button with palm trees to the sides." />
+    <img src="/buttons/lilo-and-stitch.gif" title="the entire movie (PLEASE NO HOTLINK THIS ONE ITS 50MB)" alt="an 88x31 button of the entirety of lilo and stitch" />
 </p>
 <h1 class="bb cnt nfw brd">Wifey pookington :3</h1>
 <h2 class="ub wht cnt">&#128153;</h2>
@@ -20,6 +21,13 @@
 <h1 class="bb cnt nfw brd">Other buttons</h1>
 <h2 class="ub wht cnt">Mostly friends, other interests, or anything really!</h2>
 <p class="cnt">
+    <a href="https://azumanga.xyz/" target="_blank"
+        ><img
+            src="/buttons/osaka.png"
+            alt="an 88 by 31 button of Osaka from Azumanga Daioh"
+            title="azumanga.xyz"
+        /></a
+    >
     <a href="https://www.dfuser.xyz/" target="_blank"
         ><img
             src="/buttons/bcd.png"
@@ -82,6 +90,13 @@
             title="twitter.com/Porpss1"
         /></a
     >
+    <a href="https://sisterkisser.org/" target="_blank"
+        ><img
+            src="/buttons/sisterkisserorg.png"
+            alt="an 88x31 button of some anime bitch idfk"
+            title="sisterkisser.org"
+        /></a
+    >
     <a href="https://split.pet/" target="_blank"
         ><img
             src="/buttons/split.png"
@@ -110,6 +125,24 @@
         alt="an 88 by 31 button saying 'this is an anti-N F T site' on it, on a grey background"
         title="nft's suck"
     />
+    <a href="https://www.youtube.com/watch?v=7YzXC8g0vFk" target="_blank"
+        ><img
+            src="/buttons/azumanga-daioh.gif"
+            alt="an 88x31 button gif of the opening for Azumanga Daioh"
+        /></a
+    >
+    <a href="https://www.youtube.com/watch?v=uqcTVVUFnKQ" target="_blank"
+        ><img
+            src="/buttons/death-grips-beware.gif"
+            alt="an 88x31 button gif of the music video for 'Beware' by Death Grips"
+        /></a
+    >
+    <a href="https://www.youtube.com/watch?v=7YzXC8g0vFk" target="_blank"
+        ><img
+            src="/buttons/bnice2me.gif"
+            alt="an 88x31 button gif of the music video for 'Be Nice To Me' by Bladee"
+        /></a
+    >
     <img
         src="/buttons/chrome.gif"
         alt="an 88 by 31 button fading between internet explorer and chrome, saying 'same shit different asshole' on a grey background"
@@ -129,7 +162,19 @@
             title="www.mozilla.org/en-US/firefox"
         /></a
     >
+    <a href="https://www.youtube.com/watch?v=u24e43iW9KE" target="_blank"
+        ><img
+            src="/buttons/yung-lean-gatorade.gif"
+            alt="an 88x31 button gif of the music video for 'Gatorade' by Yung Lean"
+        /></a
+    >
     <img src="/buttons/gba.png" alt="an 88 by 31 button with the gameboy advance logo on it, white on purple background" />
+    <a href="https://www.youtube.com/watch?v=vrQWhFysPKY" target="_blank"
+        ><img
+            src="/buttons/yung-lean-ginseng-strip.gif"
+            alt="an 88x31 button gif of the music video for 'Ginseng Strip 2002' by Yung Lean"
+        /></a
+    >
     <img src="/buttons/heyarnold.gif" alt="an 88 by 31 button with various characters from the tv show 'hey arnold!'" />
     <img src="/buttons/n64.png" alt="an 88 by 31 button with the nintendo 64 logo on a grey background" />
     <a href="https://www.gorillaz.com/" target="_blank"
@@ -182,6 +227,12 @@
             src="/buttons/vinesauce.gif"
             alt="an 88 by 31 button of the vineshroom to the left of 'vinesauce vidya' written in black, on grey background"
             title="vinesauce.com"
+        /></a
+    >
+    <a href="https://www.youtube.com/watch?v=I4jh4ojwSoM" target="_blank"
+        ><img
+            src="/buttons/bones-whiteboyrick.gif"
+            alt="an 88x31 button gif of the music video for 'WhiteBoyRick' by Bones"
         /></a
     >
     <img src="/buttons/wii.png" alt="an 88 by 31 button of the wii logo, black on grey background" />
