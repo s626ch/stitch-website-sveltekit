@@ -7,17 +7,6 @@
     /><img src="/buttons/stitch-alt.png" alt="liloandstit.ch 88 by 31 button with palm trees to the sides." />
     <img src="/buttons/lilo-and-stitch.gif" title="the entire movie" alt="an 88x31 button of the entirety of lilo and stitch" />
 </p>
-<h1 class="bb cnt nfw brd">Wifey pookington :3</h1>
-<h2 class="ub wht cnt">&#128153;</h2>
-<p class="cnt">
-    <a href="https://percocet.monster/" target="_blank"
-        ><img
-            src="/buttons/percocet.png"
-            alt="an 88 by 31 button of a percocet pill"
-            title="percocet.monster"
-        /></a
-    >
-</p>
 <h1 class="bb cnt nfw brd">Other buttons</h1>
 <h2 class="ub wht cnt">Mostly friends, other interests, or anything really!</h2>
 <p class="cnt" style="margin-right:69px;">
@@ -83,6 +72,13 @@
             title="nilenta.com"
         /></a
     >
+    <a href="https://percocet.monster/" target="_blank"
+        ><img
+            src="/buttons/percocet.png"
+            alt="an 88 by 31 button of a percocet pill"
+            title="percocet.monster 💙"
+        /></a
+    >
     <a href="https://twitter.com/Porpss1" target="_blank"
         ><img
             src="/buttons/rovin.png"
@@ -118,8 +114,8 @@
             title="Terrorist Attacks Can Shake The Foundations Of Our Biggest Buildings But They Cannot Touch The Foundation Of Footwerk."
         /></a
     >
-    <img src="/buttons/3ds.png" alt="an 88 by 31 button with the nintendo 3DS logo on a grey background" />
-    <img src="/buttons/acab.gif" alt="an 88 by 31 button with 'a c a b' on it" />
+    <img src="/buttons/3ds.png" alt="an 88 by 31 button with the nintendo 3DS logo on a grey background" title="nintendo 3ds"/>
+    <img src="/buttons/acab.gif" alt="an 88 by 31 button with 'a c a b' on it" title="ACAB"/>
     <img
         src="/buttons/antinft.gif"
         alt="an 88 by 31 button saying 'this is an anti-N F T site' on it, on a grey background"
@@ -129,23 +125,27 @@
         ><img
             src="/buttons/azumanga-daioh.gif"
             alt="an 88x31 button gif of the opening for Azumanga Daioh"
+            title="Azumanga Daioh"
         /></a
     >
     <a href="https://www.youtube.com/watch?v=uqcTVVUFnKQ" target="_blank"
         ><img
             src="/buttons/death-grips-beware.gif"
             alt="an 88x31 button gif of the music video for 'Beware' by Death Grips"
+            title="Death Grips - Beware"
         /></a
     >
     <a href="https://www.youtube.com/watch?v=7YzXC8g0vFk" target="_blank"
         ><img
             src="/buttons/bnice2me.gif"
             alt="an 88x31 button gif of the music video for 'Be Nice To Me' by Bladee"
+            title="Bladee - Be Nice To Me"
         /></a
     >
     <img
         src="/buttons/chrome.gif"
         alt="an 88 by 31 button fading between internet explorer and chrome, saying 'same shit different asshole' on a grey background"
+        title="same shit, different asshole"
     />
     <a href="https://thirdworlds.net/" target="_blank"
         ><img
@@ -166,6 +166,7 @@
         ><img
             src="/buttons/yung-lean-gatorade.gif"
             alt="an 88x31 button gif of the music video for 'Gatorade' by Yung Lean"
+            title="Yung Lean - Gatorade"
         /></a
     >
     <img src="/buttons/gba.png" alt="an 88 by 31 button with the gameboy advance logo on it, white on purple background" />
@@ -173,10 +174,11 @@
         ><img
             src="/buttons/yung-lean-ginseng-strip.gif"
             alt="an 88x31 button gif of the music video for 'Ginseng Strip 2002' by Yung Lean"
+            title="Yung Lean - Ginseng Strip 2002"
         /></a
     >
-    <img src="/buttons/heyarnold.gif" alt="an 88 by 31 button with various characters from the tv show 'hey arnold!'" />
-    <img src="/buttons/n64.png" alt="an 88 by 31 button with the nintendo 64 logo on a grey background" />
+    <img src="/buttons/heyarnold.gif" alt="an 88 by 31 button with various characters from the tv show 'hey arnold!'" title="Hey, Arnold!"/>
+    <img src="/buttons/n64.png" alt="an 88 by 31 button with the nintendo 64 logo on a grey background" title="Nintendo 64"/>
     <a href="https://www.gorillaz.com/" target="_blank"
         ><img src="/buttons/noodle.gif" alt="an 88 by 31 button with noodle from gorillaz on it" title="www.gorillaz.com" /></a
     >
@@ -197,13 +199,14 @@
     <img
         src="/buttons/paws.gif"
         alt="an 88 by 31 button with a purple paw to the left, and black text saying 'made with MY OWN TWO PAWS' to the right, on grey background"
+        title="Made with my own two paws!"
     />
     <img
         src="/buttons/piracy.png"
         alt="an 88 by 31 button with a skull flag to the left, and 'piracy now!' to the right, on grey background"
         title="if you know where to look, you know where to look :3"
     />
-    <img src="/buttons/snes.png" alt="an 88 by 31 button with the S N E S logo on dark blue background" />
+    <img src="/buttons/snes.png" alt="an 88 by 31 button with the S N E S logo on dark blue background" title="Super Nintendo"/>
     <a href="https://slsknet.org/" target="_blank"
         ><img
             src="/buttons/soulseek.png"
@@ -214,6 +217,7 @@
     <img
         src="/buttons/theythem.png"
         alt="an 88 by 31 button that says 'they/them' in white text with a black border, on a bright yellow background"
+        title="they/them pronouns please!!"
     />
     <a href="https://ublockorigin.com/" target="_blank"
         ><img
@@ -233,9 +237,10 @@
         ><img
             src="/buttons/bones-whiteboyrick.gif"
             alt="an 88x31 button gif of the music video for 'WhiteBoyRick' by Bones"
+            title="Bones - WhiteBoyRick"
         /></a
     >
-    <img src="/buttons/wii.png" alt="an 88 by 31 button of the wii logo, black on grey background" />
+    <img src="/buttons/wii.png" alt="an 88 by 31 button of the wii logo, black on grey background" title="Nintendo Wii"/>
 	<iframe src="//incr.easrng.net/badge?key=stitch" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
     <!--
         <img src="/buttons/" alt="an 88 by 31 button ">
