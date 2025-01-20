@@ -5,7 +5,7 @@
         src="/buttons/stitch.png"
         alt="liloandstit.ch 88 by 31 button with Stitch and Angel on it, and with palm trees to the sides."
     /><img src="/buttons/stitch-alt.png" alt="liloandstit.ch 88 by 31 button with palm trees to the sides." />
-    <img src="/buttons/lilo-and-stitch.gif" title="the entire movie (PLEASE NO HOTLINK THIS ONE ITS 50MB)" alt="an 88x31 button of the entirety of lilo and stitch" />
+    <img src="/buttons/lilo-and-stitch.gif" title="the entire movie" alt="an 88x31 button of the entirety of lilo and stitch" />
 </p>
 <h1 class="bb cnt nfw brd">Wifey pookington :3</h1>
 <h2 class="ub wht cnt">&#128153;</h2>
