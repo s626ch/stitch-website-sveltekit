@@ -86,13 +86,6 @@
             title="twitter.com/Porpss1"
         /></a
     >
-    <a href="https://sisterkisser.org/" target="_blank"
-        ><img
-            src="/buttons/sisterkisserorg.png"
-            alt="an 88x31 button of some anime bitch idfk"
-            title="sisterkisser.org"
-        /></a
-    >
     <a href="https://split.pet/" target="_blank"
         ><img
             src="/buttons/split.png"
