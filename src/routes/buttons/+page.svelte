@@ -182,6 +182,13 @@
             title="getpaint.net"
         /></a
     >
+    <a href="https://www.youtube.com/watch?v=hnG0ooQICOA" target="_blank"
+        ><img
+            src="/buttons/plastic-face.gif"
+            alt="an 88 by 31 button of the music video for 'plastic face' by j.walk-archive"
+            title="j.walk-archive - plastic face"
+        /></a
+    >
     <a href="https://youtube.com/watch?v=6_c2ZLCr5Nk" target="_blank"
         ><img
             src="/buttons/lexibook.png"
