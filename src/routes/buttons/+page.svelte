@@ -170,6 +170,13 @@
             title="Yung Lean - Ginseng Strip 2002"
         /></a
     >
+    <a href="https://hexagon.pw/" target="_blank"
+        ><img
+            src="/buttons/hexagon.png"
+            alt="an 88x31 button of the Hexagon logo"
+            title="Hexagon"
+        /></a
+    >
     <img src="/buttons/heyarnold.gif" alt="an 88 by 31 button with various characters from the tv show 'hey arnold!'" title="Hey, Arnold!"/>
     <img src="/buttons/n64.png" alt="an 88 by 31 button with the nintendo 64 logo on a grey background" title="Nintendo 64"/>
     <a href="https://www.gorillaz.com/" target="_blank"
