@@ -25,5 +25,5 @@
     you can also email me at <a href="mailto:stitch@liloandstit.ch" target="_blank">stitch(at)liloandstit.ch</a>!
 </h3>
 <h3 class="ub wht cnt" style="margin-bottom:4px;margin-top:0;">last.fm</h3>
-<Lastfm data={data.lastfm}></Lastfm>
+<Lastfm data={data.lfmr}></Lastfm>
 <img src="/i-hate-sorting-assets/stitchlol.gif" alt="Stitch laughing" class="fuckapple" />
