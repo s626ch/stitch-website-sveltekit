@@ -5,13 +5,7 @@ import { vitePreprocess } from "@sveltejs/vite-plugin-svelte";
 const config = {
     preprocess: vitePreprocess(),
     kit: {
-        adapter: adapter({
-            precompress: {
-                brotli: true,
-                gzip: true,
-                files: ["html", "js", "json", "css", "svg", "xml", "wasm", "png", "gif"],
-            },
-        }),
+        adapter: adapter(),
     },
 };
 
