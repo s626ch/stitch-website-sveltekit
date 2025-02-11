@@ -15,10 +15,10 @@ jobs:
             - name: Checkout
               uses: actions/checkout@v3
             - name: Build
-              run: docker build . -t ghcr.io/$GITHUB_REPOSITORY_OWNER/website:latest
+              run: docker build . -t ghcr.io/$GITHUB_REPOSITORY:latest
             - name: Push
-              run: docker push ghcr.io/$GITHUB_REPOSITORY_OWNER/website:latest
+              run: docker push ghcr.io/$GITHUB_REPOSITORY:latest
             - name: Cleanup
-              run: docker rmi ghcr.io/$GITHUB_REPOSITORY_OWNER/website:latest
+              run: docker rmi ghcr.io/$GITHUB_REPOSITORY:latest
             - name: Prune Docker
               run: docker system prune -a -f
