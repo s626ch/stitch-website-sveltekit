@@ -1,5 +1,7 @@
 <script>
     import Lastfm from "$lib/components/Lastfm.svelte";
+    import stitch_lol from "$lib/img/stitch_lol.gif";
+    import BlinkyLiloStitch from "$lib/img/BlinkyLiloStitch.gif";
 
     export let data;
 </script>
@@ -15,7 +17,7 @@
     <p class="quote-author ub fixmargin">- Jumba Jookiba</p>
 </div>
 <div class="cnt">
-    <img src="/i-hate-sorting-assets/BlinkyLiloStitch.gif" alt="Lilo & Stitch blinky graphic" class="inbl" />
+    <img src={BlinkyLiloStitch} alt="Lilo & Stitch blinky graphic" class="inbl" />
 </div>
 
 <h3 class="ub wht nfw jst">
@@ -25,5 +27,5 @@
     you can also email me at <a href="mailto:stitch@liloandstit.ch" target="_blank">stitch(at)liloandstit.ch</a>!
 </h3>
 <h3 class="ub wht cnt" style="margin-bottom:4px;margin-top:0;">last.fm</h3>
-<Lastfm data={data.lfmr}></Lastfm>
-<img src="/i-hate-sorting-assets/stitchlol.gif" alt="Stitch laughing" class="fuckapple" />
+<Lastfm data={data.lastfm}></Lastfm>
+<img src={stitch_lol} alt="Stitch laughing" class="fuckapple" />

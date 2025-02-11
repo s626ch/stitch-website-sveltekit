@@ -1,8 +1,9 @@
 <script lang="ts">
+    import missing from "$lib/img/missing.png";
     import { onMount } from "svelte";
 
     export let data;
-    let src = "missing.png",
+    let src = missing,
         title = "...",
         album = "...",
         artist = "...",
@@ -11,14 +12,13 @@
 
     onMount(async () => {
         try {
-            const response = await data;
             const {
                 recenttracks: {
                     track: [track],
                 },
-            } = await response.json();
+            } = await data;
 
-            src = track.image.find((image: { size: string }) => image.size === "large")["#text"] || "missing.png"
+            src = track.image.find((image: { size: string }) => image.size === "large")["#text"] || missing;
             title = track.name;
             artist = track.artist["#text"];
             album = track.album["#text"];
