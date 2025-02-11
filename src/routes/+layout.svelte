@@ -10,19 +10,19 @@
 <svelte:head>
     <title>liloandstit.ch</title>
     <link rel="icon" type="image/png" href={$page.url.origin + "/favicon.png"} />
-    <meta name="title" content={$page.url.host} />
+    <meta name="title" content="liloandstit.ch" />
     <meta name="description" content="aloha, i'm Stitch, welcome to my site :D" />
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content={$page.url.origin} />
-    <meta property="og:title" content={$page.url.host} />
+    <meta property="og:title" content="liloandstit.ch" />
     <meta property="og:description" content="aloha, i'm Stitch, welcome to my site :D" />
     <meta property="og:image" content={$page.url.origin + "/favicon.png"} />
     <meta name="theme-color" content="#f96ba6" />
     <!-- Twitter -->
     <meta property="twitter:card" content="summary" />
     <meta property="twitter:url" content={$page.url.origin} />
-    <meta property="twitter:title" content={$page.url.host} />
+    <meta property="twitter:title" content="liloandstit.ch" />
     <meta property="twitter:description" content="aloha, i'm Stitch, welcome to my site :D" />
     <meta property="twitter:image" content={$page.url.origin + "/favicon.png"} />
 </svelte:head>

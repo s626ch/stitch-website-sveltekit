@@ -50,5 +50,6 @@
         margin-left: auto;
         margin-right: auto;
         max-width: 51.5rem;
+        margin-right: 69px;
     }
 </style>
