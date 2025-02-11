@@ -26,7 +26,7 @@
 <h1 class="bb cnt nfw brd">Other buttons</h1>
 <h2 class="ub wht cnt">Mostly friends, other interests, or anything really!</h2>
 
-<div class="cnt buttons">
+<div class="cnt" style="margin-right: 69px;">
     {#each BUTTONS as { href, alt, src, title }}
         <Button8831 {href} {alt} {src} {title}></Button8831>
     {/each}
@@ -41,15 +41,3 @@
 </div>
 
 <img src={stitch_lol} alt="Stitch laughing" class="fuckapple" />
-
-<style>
-    .buttons {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 4px;
-        margin-left: auto;
-        margin-right: auto;
-        max-width: 51.5rem;
-        margin-right: 69px;
-    }
-</style>

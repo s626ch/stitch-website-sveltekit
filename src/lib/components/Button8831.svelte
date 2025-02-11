@@ -29,5 +29,6 @@
     .eightyeightthirtyone {
         width: 88px;
         height: 31px;
+        padding: 2.5px;
     }
 </style>
