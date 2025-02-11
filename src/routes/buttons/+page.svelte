@@ -1,256 +1,54 @@
+<script lang="ts">
+    import { BUTTONS } from "$lib";
+    import Button8831 from "$lib/components/Button8831.svelte";
+    import stitch_lol from "$lib/img/stitch_lol.gif";
+</script>
+
 <h1 class="bb cnt nfw brd">Buttons</h1>
 <h2 class="ub wht cnt">My buttons!</h2>
 <p class="cnt">
     <img
-        src="/buttons/stitch.png"
+        src="/img/buttons/stitch.png"
+        title="Primary Button"
         alt="liloandstit.ch 88 by 31 button with Stitch and Angel on it, and with palm trees to the sides."
-    /><img src="/buttons/stitch-alt.png" alt="liloandstit.ch 88 by 31 button with palm trees to the sides." />
-    <img src="/buttons/lilo-and-stitch.gif" title="the entire movie" alt="an 88x31 button of the entirety of lilo and stitch" />
+    />
+    <img
+        src="/img/buttons/stitch-alt.png"
+        title="Alternate Button"
+        alt="liloandstit.ch 88 by 31 button with palm trees to the sides."
+    />
+    <img
+        src="/img/buttons/lilo-and-stitch.gif"
+        title="The Entire Movie"
+        alt="an 88x31 button of the entirety of lilo and stitch"
+    />
 </p>
 <h1 class="bb cnt nfw brd">Other buttons</h1>
 <h2 class="ub wht cnt">Mostly friends, other interests, or anything really!</h2>
-<p class="cnt" style="margin-right:69px;">
-    <a href="https://azumanga.xyz/" target="_blank"
-        ><img
-            src="/buttons/osaka.png"
-            alt="an 88 by 31 button of Osaka from Azumanga Daioh"
-            title="azumanga.xyz"
-        /></a
-    >
-    <a href="https://www.dfuser.xyz/" target="_blank"
-        ><img
-            src="/buttons/bcd.png"
-            alt="an 88 by 31 button with multicolor letters 'b c d' on a black background"
-            title="dfuser.xyz"
-        /></a
-    >
-    <a href="https://celery.dog/"
-        ><img
-            src="/buttons/celery.png"
-            alt="an 88 by 31 button with multicolor plush letters spelling out 'celery dot dog' on a black starry background"
-            title="celery.dog"
-        /></a
-    >
-    <a href="https://vea.st/" target="_blank"
-        ><img
-            src="/buttons/veast.png"
-            alt="an 88 by 31 button with a white cat doodle to the left, and white text saying 'chloe vea.st' on a black background"
-            title="vea.st"
-        /></a
-    >
-    <a href="https://cirroskais.xyz/" target="_blank"
-        ><img
-            src="/buttons/cirro.png"
-            alt="an 88 by 31 button with written letters saying 'cirro' in cornflower blue decorated to look like a cat, on a dark grey background"
-            title="cirroskais.xyz"
-        /></a
-    >
-    <a href="https://flamingfennec.neocities.org/" target="_blank"
-        ><img
-            src="/buttons/FENSITE.png"
-            alt="an 88 by 31 button, white on dark blue, with a fox sillhouette to the left, and the text 'fenne site' to the left"
-        /></a
-    >
-    <a href="https://justi.zone/" target="_blank"
-        ><img
-            src="/buttons/justin.png"
-            alt="an 88 by 31 button split in half with one side saying 'justin's' in white text on a black background, and the other side with a ':3' face on a light green background"
-            title="justi.zone"
-        /></a
-    >
-    <a href="https://m1cro.xyz/" target="_blank"
-        ><img
-            src="/buttons/micro.png"
-            alt="an 88 by 31 button with top, white text 'miro's site', and bottom fat, stretched out, yellow cat, on a navy blue background"
-            title="m1cro.xyz"
-        /></a
-    >
-    <a href="https://nilenta.com/" target="_blank"
-        ><img
-            src="/buttons/nilenta.png"
-            alt="an 88 by 31 button with white scribbled text saying 'nilenta' with a cat face underneath"
-            title="nilenta.com"
-        /></a
-    >
-    <a href="https://percocet.monster/" target="_blank"
-        ><img
-            src="/buttons/percocet.png"
-            alt="an 88 by 31 button of a percocet pill"
-            title="percocet.monster 💙"
-        /></a
-    >
-    <a href="https://twitter.com/Porpss1" target="_blank"
-        ><img
-            src="/buttons/rovin.png"
-            alt="an 88 by 31 button with a white cat doodle that looks like it's spelling out 'me' with its head and tail, on a black background"
-            title="twitter.com/Porpss1"
-        /></a
-    >
-    <a href="https://split.pet/" target="_blank"
-        ><img
-            src="/buttons/split.png"
-            alt="an 88 by 31 button with soothing purple to pink gradient text saying 'hi, i'm split' on a dark grey background"
-            title="split.pet"
-        /></a
-    >
-    <a href="https://vaje.neocities.org/" target="_blank"
-        ><img
-            src="/buttons/vajebutton.gif"
-            alt="a colorful 88 by 31 button with a pair of lips saying 'vaje"
-            title="vaje.neocities.org"
-        /></a
-    >
-    <a href="https://www.youtube.com/watch?v=3FWCvzduYZg" target="_blank"
-        ><img
-            src="/buttons/9-11.gif"
-            alt="Terrorist Attacks Can Shake The Foundations Of Our Biggest Buildings But They Cannot Touch The Foundation Of Footwerk."
-            title="Terrorist Attacks Can Shake The Foundations Of Our Biggest Buildings But They Cannot Touch The Foundation Of Footwerk."
-        /></a
-    >
-    <img src="/buttons/3ds.png" alt="an 88 by 31 button with the nintendo 3DS logo on a grey background" title="nintendo 3ds"/>
-    <img src="/buttons/acab.gif" alt="an 88 by 31 button with 'a c a b' on it" title="ACAB"/>
-    <img
-        src="/buttons/antinft.gif"
-        alt="an 88 by 31 button saying 'this is an anti-N F T site' on it, on a grey background"
-        title="nft's suck"
-    />
-    <a href="https://www.youtube.com/watch?v=7YzXC8g0vFk" target="_blank"
-        ><img
-            src="/buttons/azumanga-daioh.gif"
-            alt="an 88x31 button gif of the opening for Azumanga Daioh"
-            title="Azumanga Daioh"
-        /></a
-    >
-    <a href="https://www.youtube.com/watch?v=uqcTVVUFnKQ" target="_blank"
-        ><img
-            src="/buttons/death-grips-beware.gif"
-            alt="an 88x31 button gif of the music video for 'Beware' by Death Grips"
-            title="Death Grips - Beware"
-        /></a
-    >
-    <a href="https://www.youtube.com/watch?v=7YzXC8g0vFk" target="_blank"
-        ><img
-            src="/buttons/bnice2me.gif"
-            alt="an 88x31 button gif of the music video for 'Be Nice To Me' by Bladee"
-            title="Bladee - Be Nice To Me"
-        /></a
-    >
-    <img
-        src="/buttons/chrome.gif"
-        alt="an 88 by 31 button fading between internet explorer and chrome, saying 'same shit different asshole' on a grey background"
-        title="same shit, different asshole"
-    />
-    <a href="https://thirdworlds.net/" target="_blank"
-        ><img
-            src="/buttons/deathgrips.png"
-            alt="an 88 by 31 button of a death grips logo, white on black background"
-            title="thirdworlds.net"
-        /></a
-    >
-    <img src="/buttons/ds.png" alt="an 88 by 31 button with the nintendo DS logo on a grey background" />
-    <a href="https://www.mozilla.org/en-US/firefox/" target="_blank"
-        ><img
-            src="/buttons/firefox2.gif"
-            alt="an 88 by 31 button with the firefox logo to the right, and text to the left saying 'rediscover the web', 'get firefox', 'the browser you can trust', 'safer, faster, better', 'take back the web'"
-            title="www.mozilla.org/en-US/firefox"
-        /></a
-    >
-    <a href="https://www.youtube.com/watch?v=u24e43iW9KE" target="_blank"
-        ><img
-            src="/buttons/yung-lean-gatorade.gif"
-            alt="an 88x31 button gif of the music video for 'Gatorade' by Yung Lean"
-            title="Yung Lean - Gatorade"
-        /></a
-    >
-    <img src="/buttons/gba.png" alt="an 88 by 31 button with the gameboy advance logo on it, white on purple background" />
-    <a href="https://www.youtube.com/watch?v=vrQWhFysPKY" target="_blank"
-        ><img
-            src="/buttons/yung-lean-ginseng-strip.gif"
-            alt="an 88x31 button gif of the music video for 'Ginseng Strip 2002' by Yung Lean"
-            title="Yung Lean - Ginseng Strip 2002"
-        /></a
-    >
-    <a href="https://hexagon.pw/" target="_blank"
-        ><img
-            src="/buttons/hexagon.png"
-            alt="an 88x31 button of the Hexagon logo"
-            title="Hexagon"
-        /></a
-    >
-    <img src="/buttons/heyarnold.gif" alt="an 88 by 31 button with various characters from the tv show 'hey arnold!'" title="Hey, Arnold!"/>
-    <img src="/buttons/n64.png" alt="an 88 by 31 button with the nintendo 64 logo on a grey background" title="Nintendo 64"/>
-    <a href="https://www.gorillaz.com/" target="_blank"
-        ><img src="/buttons/noodle.gif" alt="an 88 by 31 button with noodle from gorillaz on it" title="www.gorillaz.com" /></a
-    >
-    <a href="https://getpaint.net/" target="_blank"
-        ><img
-            src="/buttons/paintnet.gif"
-            alt="an 88 by 31 button with the paint dot net logo to the left, and 'get paint.net' to the right, black on grey background"
-            title="getpaint.net"
-        /></a
-    >
-    <a href="https://www.youtube.com/watch?v=hnG0ooQICOA" target="_blank"
-        ><img
-            src="/buttons/plastic-face.gif"
-            alt="an 88 by 31 button of the music video for 'plastic face' by j.walk-archive"
-            title="j.walk-archive - plastic face"
-        /></a
-    >
-    <a href="https://youtube.com/watch?v=6_c2ZLCr5Nk" target="_blank"
-        ><img
-            src="/buttons/lexibook.png"
-            alt="an 88 by 31 button with the Lexibook logo in the center, white logo on navy blue background"
-            title="The Lexibook JG7420 TV Games Console! (Plug and Plague)"
-        /></a
-    >
-    <img
-        src="/buttons/paws.gif"
-        alt="an 88 by 31 button with a purple paw to the left, and black text saying 'made with MY OWN TWO PAWS' to the right, on grey background"
-        title="Made with my own two paws!"
-    />
-    <img
-        src="/buttons/piracy.png"
-        alt="an 88 by 31 button with a skull flag to the left, and 'piracy now!' to the right, on grey background"
-        title="if you know where to look, you know where to look :3"
-    />
-    <img src="/buttons/snes.png" alt="an 88 by 31 button with the S N E S logo on dark blue background" title="Super Nintendo"/>
-    <a href="https://slsknet.org/" target="_blank"
-        ><img
-            src="/buttons/soulseek.png"
-            alt="an 88 by 31 button of the blue soulseek bird logo to the left of 'Soulseek' written in black, on grey background"
-            title="slsknet.org"
-        /></a
-    >
-    <img
-        src="/buttons/theythem.png"
-        alt="an 88 by 31 button that says 'they/them' in white text with a black border, on a bright yellow background"
-        title="they/them pronouns please!!"
-    />
-    <a href="https://ublockorigin.com/" target="_blank"
-        ><img
-            src="/buttons/ubo.png"
-            alt="an 88 by 31 button with the ublock origin 'ub' shield logo, to the left of 'uBlock Origin Now!', on a grey background"
-            title="ublockorigin.com"
-        /></a
-    >
-    <a href="https://vinesauce.com/" target="_blank"
-        ><img
-            src="/buttons/vinesauce.gif"
-            alt="an 88 by 31 button of the vineshroom to the left of 'vinesauce vidya' written in black, on grey background"
-            title="vinesauce.com"
-        /></a
-    >
-    <a href="https://www.youtube.com/watch?v=I4jh4ojwSoM" target="_blank"
-        ><img
-            src="/buttons/bones-whiteboyrick.gif"
-            alt="an 88x31 button gif of the music video for 'WhiteBoyRick' by Bones"
-            title="Bones - WhiteBoyRick"
-        /></a
-    >
-    <img src="/buttons/wii.png" alt="an 88 by 31 button of the wii logo, black on grey background" title="Nintendo Wii"/>
-	<iframe src="//incr.easrng.net/badge?key=stitch" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
-    <!--
-        <img src="/buttons/" alt="an 88 by 31 button ">
-        -->
-</p>
-<img src="/i-hate-sorting-assets/stitchlol.gif" alt="Stitch laughing" class="fuckapple" />
+
+<div class="cnt buttons">
+    {#each BUTTONS as { href, alt, src, title }}
+        <Button8831 {href} {alt} {src} {title}></Button8831>
+    {/each}
+    <iframe
+        src="//incr.easrng.net/badge?key=stitch"
+        style="background: url(//incr.easrng.net/bg.gif)"
+        title="increment badge"
+        width="88"
+        height="31"
+        frameborder="0"
+    ></iframe>
+</div>
+
+<img src={stitch_lol} alt="Stitch laughing" class="fuckapple" />
+
+<style>
+    .buttons {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4px;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 51.5rem;
+    }
+</style>

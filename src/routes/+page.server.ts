@@ -1,5 +1,5 @@
-import { lfm } from "$lib/server/lastfm";
+import { getRecentTracks } from "$lib/server/lastfm";
+
 export async function load() {
-    const lfmr = lfm();
-    return { lfmr };
+    return { lastfm: await getRecentTracks() };
 }

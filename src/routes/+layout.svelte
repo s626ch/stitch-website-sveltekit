@@ -1,26 +1,30 @@
 <script lang="ts">
+    import { page } from "$app/stores";
     import "../app.css";
-    import "../embedded.css";
+
+    import PALML from "$lib/img/PALML.png";
+    import PALMR from "$lib/img/PALMR.png";
+    import LNS from "$lib/img/LNS.png";
 </script>
 
 <svelte:head>
     <title>liloandstit.ch</title>
-    <link rel="icon" type="image/png" href="https://liloandstit.ch/boojiboo.png" />
-    <meta name="title" content="liloandstit.ch" />
+    <link rel="icon" type="image/png" href={$page.url.origin + "/favicon.png"} />
+    <meta name="title" content={$page.url.host} />
     <meta name="description" content="aloha, i'm Stitch, welcome to my site :D" />
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://liloandstit.ch/" />
-    <meta property="og:title" content="liloandstit.ch" />
+    <meta property="og:url" content={$page.url.origin} />
+    <meta property="og:title" content={$page.url.host} />
     <meta property="og:description" content="aloha, i'm Stitch, welcome to my site :D" />
-    <meta property="og:image" content="https://liloandstit.ch/boojiboo.png" />
+    <meta property="og:image" content={$page.url.origin + "/favicon.png"} />
     <meta name="theme-color" content="#f96ba6" />
     <!-- Twitter -->
     <meta property="twitter:card" content="summary" />
-    <meta property="twitter:url" content="https://liloandstit.ch/" />
-    <meta property="twitter:title" content="liloandstit.ch" />
+    <meta property="twitter:url" content={$page.url.origin} />
+    <meta property="twitter:title" content={$page.url.host} />
     <meta property="twitter:description" content="aloha, i'm Stitch, welcome to my site :D" />
-    <meta property="twitter:image" content="https://liloandstit.ch/boojiboo.png" />
+    <meta property="twitter:image" content={$page.url.origin + "/favicon.png"} />
 </svelte:head>
 
 <div class="container">
@@ -32,11 +36,11 @@
             <div class="stoppie4 stsh"></div>
             <div class="stoppie5 stsh"></div>
         </div>
-        <img src="/i-hate-sorting-assets/PALMR.png" alt="doodled palm tree" class="palmL" />
+        <img src={PALML} alt="doodled palm tree" class="palmL" />
         <a href="/" class="headerlink">
-            <img src="/i-hate-sorting-assets/LNS.png" alt="liloandstit.ch" class="logo" />
+            <img src={LNS} alt="liloandstit.ch" class="logo" />
         </a>
-        <img src="/i-hate-sorting-assets/PALM.png" alt="doodled palm tree" class="palmR" />
+        <img src={PALMR} alt="doodled palm tree" class="palmR" />
         <div class="bambooBottom">
             <div class="stoppie1 stsh"></div>
             <div class="stoppie2 stsh"></div>

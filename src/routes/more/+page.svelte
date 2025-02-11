@@ -1,3 +1,7 @@
+<script lang="ts">
+    import stitch_lol from "$lib/img/stitch_lol.gif";
+</script>
+
 <h1 class="bb cnt nfw brd">More...</h1>
 <h3 class="ub wht nfw jst">
     Here's a full list of places I can be found:
@@ -51,4 +55,4 @@
         <li><a href="https://www.tenforums.com/members/stitch.html" target="_blank">TenForums</a></li>
     </ul>
 </h3>
-<img src="/i-hate-sorting-assets/stitchlol.gif" alt="Stitch laughing" class="fuckapple" />
+<img src={stitch_lol} alt="Stitch laughing" class="fuckapple" />
