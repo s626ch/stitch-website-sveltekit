@@ -51,6 +51,7 @@ export const BUTTONS = [
     },
     {
         href: "https://twitter.com/Porpss1",
+        title: "https://twitter.com/Porpss1",
         alt: "an 88 by 31 button with a white cat doodle that looks like it's spelling out 'me' with its head and tail, on a black background",
         src: import("$lib/img/buttons/robin.png"),
     },
@@ -66,6 +67,7 @@ export const BUTTONS = [
     },
     {
         href: "https://www.youtube.com/watch?v=3FWCvzduYZg",
+        title: "Terrorist Attacks Can Shake The Foundations Of Our Biggest Buildings But They Cannot Touch The Foundation Of Footwerk.",
         alt: "Terrorist Attacks Can Shake The Foundations Of Our Biggest Buildings But They Cannot Touch The Foundation Of Footwerk.",
         src: import("$lib/img/buttons/9-11.gif"),
     },
