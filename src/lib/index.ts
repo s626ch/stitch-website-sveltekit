@@ -103,6 +103,11 @@ export const BUTTONS = [
         src: import("$lib/img/buttons/bnice2me.gif"),
     },
     {
+        title: "blover",
+        alt: "blover",
+        src: import("$lib/img/buttons/blover.gif"),
+    },
+    {
         title: "same shit, different asshole",
         alt: "an 88 by 31 button fading between internet explorer and chrome, saying 'same shit different asshole' on a grey background",
         src: import("$lib/img/buttons/chrome.gif"),
