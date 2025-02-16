@@ -51,7 +51,7 @@ export const BUTTONS = [
     },
     {
         href: "https://twitter.com/Porpss1",
-        title: "https://twitter.com/Porpss1",
+        title: "twitter.com/Porpss1",
         alt: "an 88 by 31 button with a white cat doodle that looks like it's spelling out 'me' with its head and tail, on a black background",
         src: import("$lib/img/buttons/robin.png"),
     },
