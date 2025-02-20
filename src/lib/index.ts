@@ -25,6 +25,11 @@ export const BUTTONS = [
         src: import("$lib/img/buttons/cirro.png"),
     },
     {
+        href: "https://doskel.net",
+        alt: "an 88 by 31 button saying C:\\> DOSKEL terminal style",
+        src: import("$lib/img/buttons/doskel.png")
+    },
+    {
         href: "https://flamingfennec.neocities.org/",
         alt: "an 88 by 31 button, white on dark blue, with a fox sillhouette to the left, and the text 'fenne site' to the left",
         src: import("$lib/img/buttons/FENSITE.png"),
