@@ -130,6 +130,12 @@ export const BUTTONS = [
         src: import("$lib/img/buttons/ds.png"),
     },
     {
+        href: "https://coolvirus.download/",
+        title: "We love Duke",
+        alt: "an 88 by 31 button Java's \"Duke\" penguin-y mascot playing the guitar, with their name in red surrounded by hearts",
+        src: import("$lib/img/buttons/weloveduke.png")
+    },
+    {
         href: "https://www.mozilla.org/en-US/firefox/",
         alt: "an 88 by 31 button with the firefox logo to the right, and text to the left saying 'rediscover the web', 'get firefox', 'the browser you can trust', 'safer, faster, better', 'take back the web'",
         src: import("$lib/img/buttons/firefox2.gif"),
