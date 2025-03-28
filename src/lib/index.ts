@@ -115,6 +115,12 @@ export const BUTTONS = [
         src: import("$lib/img/buttons/blover.gif"),
     },
     {
+        href: "https://www.youtube.com/watch?v=F60JsBA-fjA",
+        title: "$UICIDEBOY$ - BURGUNDY",
+	alt: "an 88x31 button gif of part of the 'BURGUNDY' lyric video by $uicideboy$",
+	src: import("$lib/img/buttons/BURGUNDY-88-31.gif"),
+    },
+    {
         title: "same shit, different asshole",
         alt: "an 88 by 31 button fading between internet explorer and chrome, saying 'same shit different asshole' on a grey background",
         src: import("$lib/img/buttons/chrome.gif"),
@@ -181,6 +187,10 @@ export const BUTTONS = [
         href: "https://getpaint.net/",
         alt: "an 88 by 31 button with the paint dot net logo to the left, and 'get paint.net' to the right, black on grey background",
         src: import("$lib/img/buttons/paintnet.gif"),
+    },
+    {
+        alt: "an 88x31 button that says '...penis...' with a sad faced blue orb",
+        src: import("$lib/img/buttons/penis.png"),
     },
     {
         href: "https://www.youtube.com/watch?v=hnG0ooQICOA",
