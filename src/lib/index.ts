@@ -5,11 +5,6 @@ export const BUTTONS = [
         src: import("$lib/img/buttons/osaka.png"),
     },
     {
-        href: "https://www.dfuser.xyz/",
-        alt: "an 88 by 31 button with multicolor letters 'b c d' on a black background",
-        src: import("$lib/img/buttons/bcd.png"),
-    },
-    {
         href: "https://celery.dog/",
         alt: "an 88 by 31 button with multicolor plush letters spelling out 'celery dot dog' on a black starry background",
         src: import("$lib/img/buttons/celery.png"),
@@ -19,11 +14,12 @@ export const BUTTONS = [
         alt: "an 88 by 31 button with a white cat doodle to the left, and white text saying 'chloe vea.st' on a black background",
         src: import("$lib/img/buttons/veast.png"),
     },
-    {
-        href: "https://cirroskais.xyz",
-        alt: "an 88 by 31 button with written letters saying 'cirro' in cornflower blue decorated to look like a cat, on a dark grey background",
-        src: import("$lib/img/buttons/cirro.png"),
-    },
+# I'll miss you, Cirro. You deserved better.
+#    {
+#        href: "https://cirroskais.xyz",
+#        alt: "an 88 by 31 button with written letters saying 'cirro' in cornflower blue decorated to look like a cat, on a dark grey background",
+#        src: import("$lib/img/buttons/cirro.png"),
+#    },
     {
         href: "https://doskel.net",
         alt: "an 88 by 31 button saying C:\\> DOSKEL terminal style",
@@ -35,7 +31,9 @@ export const BUTTONS = [
         src: import("$lib/img/buttons/FENSITE.png"),
     },
     {
-        href: "https://justi.zone/",
+        #href: "https://justi.zone/",
+	# fix your fucking website justin
+	href: "https://twitter.com/pensive_face",
         alt: "an 88 by 31 button split in half with one side saying 'justin's' in white text on a black background, and the other side with a ':3' face on a light green background",
         src: import("$lib/img/buttons/justin.png"),
     },
@@ -65,11 +63,12 @@ export const BUTTONS = [
         alt: "an 88 by 31 button with soothing purple to pink gradient text saying 'hi, i'm split' on a dark grey background",
         src: import("$lib/img/buttons/split.png"),
     },
-    {
-        href: "https://vaje.neocities.org/",
-        alt: "a colorful 88 by 31 button with a pair of lips saying 'vaje",
-        src: import("$lib/img/buttons/vajebutton.gif"),
-    },
+# It's just not like how it used to be.
+#    {
+#        href: "https://vaje.neocities.org/",
+#        alt: "a colorful 88 by 31 button with a pair of lips saying 'vaje",
+#        src: import("$lib/img/buttons/vajebutton.gif"),
+#    },
     {
         href: "https://www.youtube.com/watch?v=3FWCvzduYZg",
         title: "Terrorist Attacks Can Shake The Foundations Of Our Biggest Buildings But They Cannot Touch The Foundation Of Footwerk.",
@@ -163,11 +162,12 @@ export const BUTTONS = [
         alt: "an 88x31 button gif of the music video for 'Ginseng Strip 2002' by Yung Lean",
         src: import("$lib/img/buttons/yung-lean-ginseng-strip.gif"),
     },
-    {
-        href: "https://hexagon.pw/",
-        alt: "an 88x31 button of the Hexagon logo",
-        src: import("$lib/img/buttons/hexagon.png"),
-    },
+# hexagon is dead :{
+#    {
+#        href: "https://hexagon.pw/",
+#        alt: "an 88x31 button of the Hexagon logo",
+#        src: import("$lib/img/buttons/hexagon.png"),
+#    },
     {
         title: "Hey, Arnold!",
         alt: "an 88 by 31 button with various characters from the tv show 'hey arnold!'",
