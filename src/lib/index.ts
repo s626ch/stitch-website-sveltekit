@@ -14,14 +14,13 @@ export const BUTTONS = [
         alt: "an 88 by 31 button with a white cat doodle to the left, and white text saying 'chloe vea.st' on a black background",
         src: import("$lib/img/buttons/veast.png"),
     },
-// I'll miss you, Cirro. You deserved better.
-//    {
-//        href: "https://cirroskais.xyz",
-//        alt: "an 88 by 31 button with written letters saying 'cirro' in cornflower blue decorated to look like a cat, on a dark grey background",
-//        src: import("$lib/img/buttons/cirro.png"),
-//    },
     {
-        href: "https://doskel.net",
+        href: "https://snep.lol/",
+        alt: "an 88 by 31 button with written letters saying 'cirro' in cornflower blue decorated to look like a cat, on a dark grey background",
+        src: import("$lib/img/buttons/cirro.png"),
+    },
+    {
+        href: "https://doskel.net/",
         alt: "an 88 by 31 button saying C:\\> DOSKEL terminal style",
         src: import("$lib/img/buttons/doskel.png")
     },
@@ -33,7 +32,7 @@ export const BUTTONS = [
     {
         // href: "https://justi.zone/",
 	// fix your fucking website justin
-	href: "https://twitter.com/pensive_face",
+	    href: "https://twitter.com/pensive_face",
         alt: "an 88 by 31 button split in half with one side saying 'justin's' in white text on a black background, and the other side with a ':3' face on a light green background",
         src: import("$lib/img/buttons/justin.png"),
     },
