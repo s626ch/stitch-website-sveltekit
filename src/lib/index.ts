@@ -17,7 +17,7 @@ export const BUTTONS = [
     {
         href: "https://snep.lol/",
         alt: "an 88 by 31 button with written letters saying 'cirro' in cornflower blue decorated to look like a cat, on a dark grey background",
-        src: import("$lib/img/buttons/cirro.png"),
+        src: import("$lib/img/buttons/cirro-new.png"),
     },
     {
         href: "https://doskel.net/",
