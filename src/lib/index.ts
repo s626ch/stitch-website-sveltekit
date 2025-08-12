@@ -1,5 +1,10 @@
 export const BUTTONS = [
     {
+        href: "https://a320.nishi.boats/",
+        alt: "an 88 by 31 button saying 'a320' and what looks like the AMD logo",
+        src: import("$lib/img/buttons/a320.gif"),
+    },
+    {
         href: "https://azumanga.xyz/",
         alt: "an 88 by 31 button of Osaka from Azumanga Daioh",
         src: import("$lib/img/buttons/osaka.png"),
@@ -173,9 +178,18 @@ export const BUTTONS = [
         src: import("$lib/img/buttons/n64.png"),
     },
     {
+        title: "I GOT MY DICK SUCKED AT NIXLABS DOT DEV",
+        alt: "an 88 by 31, black text on purple, saying 'i got my dick sucked at nixlabs dot dev'",
+        src: import("$lib/img/buttons/nixlabs.png"),
+    },
+    {
         href: "https://www.gorillaz.com/",
         alt: "an 88 by 31 button with noodle from gorillaz on it",
         src: import("$lib/img/buttons/noodle.gif"),
+    },
+    {
+        alt: "a nonbinary themed enby pride button!!",
+        src: import("$lib/img/buttons/nonbinary.png"),
     },
     {
         href: "https://getpaint.net/",
