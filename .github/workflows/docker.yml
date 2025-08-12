@@ -42,4 +42,4 @@ jobs:
           username: stitch
           key: ${{ secrets.SSH_KEY }}
           port: 2221
-          script: /home/stitch/lns-sv/update.sh
+          script_path: /home/stitch/lns-sv/update.sh
