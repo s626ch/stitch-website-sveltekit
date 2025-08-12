@@ -183,6 +183,7 @@ export const BUTTONS = [
         src: import("$lib/img/buttons/n64.png"),
     },
     {
+        href: "https://nixlabs.dev",
         title: "I GOT MY DICK SUCKED AT NIXLABS DOT DEV",
         alt: "an 88 by 31, black text on purple, saying 'i got my dick sucked at nixlabs dot dev'",
         src: import("$lib/img/buttons/nixlabs.png"),
