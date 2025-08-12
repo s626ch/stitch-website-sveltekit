@@ -1,5 +1,5 @@
 # stitch-website-sveltekit
 
-[cirro](https://github.com/cirroskais) wuz here
+a snep wuz here
 
 # WOoooooooOOOOOOOOOOOOOOOOOOOOOOOOOOOOO

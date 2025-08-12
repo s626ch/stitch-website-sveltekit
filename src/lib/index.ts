@@ -10,11 +10,6 @@ export const BUTTONS = [
         src: import("$lib/img/buttons/osaka.png"),
     },
     {
-        href: "https://www.dfuser.xyz/",
-        alt: "an 88 by 31 button with multicolor letters 'b c d' on a black background",
-        src: import("$lib/img/buttons/bcd.png"),
-    },
-    {
         href: "https://celery.dog/",
         alt: "an 88 by 31 button with multicolor plush letters spelling out 'celery dot dog' on a black starry background",
         src: import("$lib/img/buttons/celery.png"),
@@ -25,12 +20,12 @@ export const BUTTONS = [
         src: import("$lib/img/buttons/veast.png"),
     },
     {
-        href: "https://cirroskais.xyz",
+        href: "https://snep.lol/",
         alt: "an 88 by 31 button with written letters saying 'cirro' in cornflower blue decorated to look like a cat, on a dark grey background",
-        src: import("$lib/img/buttons/cirro.png"),
+        src: import("$lib/img/buttons/cirro-new.png"),
     },
     {
-        href: "https://doskel.net",
+        href: "https://doskel.net/",
         alt: "an 88 by 31 button saying C:\\> DOSKEL terminal style",
         src: import("$lib/img/buttons/doskel.png")
     },
@@ -40,7 +35,9 @@ export const BUTTONS = [
         src: import("$lib/img/buttons/FENSITE.png"),
     },
     {
-        href: "https://justi.zone/",
+        // href: "https://justi.zone/",
+	// fix your fucking website justin
+	    href: "https://twitter.com/pensive_face",
         alt: "an 88 by 31 button split in half with one side saying 'justin's' in white text on a black background, and the other side with a ':3' face on a light green background",
         src: import("$lib/img/buttons/justin.png"),
     },
@@ -70,11 +67,12 @@ export const BUTTONS = [
         alt: "an 88 by 31 button with soothing purple to pink gradient text saying 'hi, i'm split' on a dark grey background",
         src: import("$lib/img/buttons/split.png"),
     },
-    {
-        href: "https://vaje.neocities.org/",
-        alt: "a colorful 88 by 31 button with a pair of lips saying 'vaje",
-        src: import("$lib/img/buttons/vajebutton.gif"),
-    },
+// It's just not like how it used to be.
+//    {
+//        href: "https://vaje.neocities.org/",
+//        alt: "a colorful 88 by 31 button with a pair of lips saying 'vaje",
+//        src: import("$lib/img/buttons/vajebutton.gif"),
+//    },
     {
         href: "https://www.youtube.com/watch?v=3FWCvzduYZg",
         title: "Terrorist Attacks Can Shake The Foundations Of Our Biggest Buildings But They Cannot Touch The Foundation Of Footwerk.",
@@ -120,6 +118,12 @@ export const BUTTONS = [
         src: import("$lib/img/buttons/blover.gif"),
     },
     {
+        href: "https://www.youtube.com/watch?v=F60JsBA-fjA",
+        title: "$UICIDEBOY$ - BURGUNDY",
+	alt: "an 88x31 button gif of part of the 'BURGUNDY' lyric video by $uicideboy$",
+	src: import("$lib/img/buttons/BURGUNDY-88-31.gif"),
+    },
+    {
         title: "same shit, different asshole",
         alt: "an 88 by 31 button fading between internet explorer and chrome, saying 'same shit different asshole' on a grey background",
         src: import("$lib/img/buttons/chrome.gif"),
@@ -162,11 +166,12 @@ export const BUTTONS = [
         alt: "an 88x31 button gif of the music video for 'Ginseng Strip 2002' by Yung Lean",
         src: import("$lib/img/buttons/yung-lean-ginseng-strip.gif"),
     },
-    {
-        href: "https://hexagon.pw/",
-        alt: "an 88x31 button of the Hexagon logo",
-        src: import("$lib/img/buttons/hexagon.png"),
-    },
+// hexagon is dead :{
+//    {
+//        href: "https://hexagon.pw/",
+//        alt: "an 88x31 button of the Hexagon logo",
+//        src: import("$lib/img/buttons/hexagon.png"),
+//    },
     {
         title: "Hey, Arnold!",
         alt: "an 88 by 31 button with various characters from the tv show 'hey arnold!'",
@@ -195,6 +200,10 @@ export const BUTTONS = [
         href: "https://getpaint.net/",
         alt: "an 88 by 31 button with the paint dot net logo to the left, and 'get paint.net' to the right, black on grey background",
         src: import("$lib/img/buttons/paintnet.gif"),
+    },
+    {
+        alt: "an 88x31 button that says '...penis...' with a sad faced blue orb",
+        src: import("$lib/img/buttons/penis.png"),
     },
     {
         href: "https://www.youtube.com/watch?v=hnG0ooQICOA",

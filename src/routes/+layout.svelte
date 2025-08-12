@@ -26,7 +26,6 @@
     <meta property="twitter:description" content="aloha, i'm Stitch, welcome to my site :D" />
     <meta property="twitter:image" content={$page.url.origin + "/favicon.png"} />
 </svelte:head>
-
 <div class="container">
     <div class="top">
         <div class="bambooTop">
