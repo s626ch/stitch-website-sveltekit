@@ -254,6 +254,11 @@ export const BUTTONS = [
         src: import("$lib/img/buttons/vinesauce.gif"),
     },
     {
+        href: "https://wavesmiley.com/",
+        alt: "waves at you",
+        src: import("$lib/img/buttons/wavesmiley8831.gif"),
+    },
+    {
         href: "https://www.youtube.com/watch?v=I4jh4ojwSoM",
         title: "Bones - WhiteBoyRick",
         alt: "an 88x31 button gif of the music video for 'WhiteBoyRick' by Bones",
