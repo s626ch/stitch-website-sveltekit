@@ -134,6 +134,12 @@ export const BUTTONS = [
         src: import("$lib/img/buttons/deathgrips.png"),
     },
     {
+        href: "https://doomwiki.org/wiki/How_to_play_Doom_on_modern_Windows_systems",
+        title: "PLAY DOOM!!!",
+        alt: "an 88 by 31 button of the DOOM game logo",
+        src: import("$/lib/img/buttons/doom.gif")
+    },
+    {
         title: "Nintendo DS",
         alt: "an 88 by 31 button with the Nintendo DS logo on a grey background",
         src: import("$lib/img/buttons/ds.png"),
@@ -178,6 +184,12 @@ export const BUTTONS = [
         src: import("$lib/img/buttons/heyarnold.gif"),
     },
     {
+        href: "https://figglewatts.itch.io/lsd-revamped",
+        title: "LSD",
+        alt: "an 88 by 31 button of LSD dream emulator's logo",
+        src: import("$lib/img/buttons/lsd.png")
+    },
+    {
         title: "Nintendo 64",
         alt: "an 88 by 31 button with the Nintendo 64 logo on a grey background",
         src: import("$lib/img/buttons/n64.png"),
@@ -201,6 +213,12 @@ export const BUTTONS = [
         href: "https://getpaint.net/",
         alt: "an 88 by 31 button with the paint dot net logo to the left, and 'get paint.net' to the right, black on grey background",
         src: import("$lib/img/buttons/paintnet.gif"),
+    },
+    {
+        href: "https://decolonizepalestine.com/",
+        alt: "an 88 by 31 button of the Palestinian flag -- from the river to the sea, palestine will be free",
+        title: "FREE PALESTINE",
+        src: import("$lib/img/buttons/riversea1.gif")
     },
     {
         alt: "an 88x31 button that says '...penis...' with a sad faced blue orb",
