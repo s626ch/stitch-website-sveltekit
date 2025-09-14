@@ -137,7 +137,7 @@ export const BUTTONS = [
         href: "https://doomwiki.org/wiki/How_to_play_Doom_on_modern_Windows_systems",
         title: "PLAY DOOM!!!",
         alt: "an 88 by 31 button of the DOOM game logo",
-        src: import("$/lib/img/buttons/doom.gif")
+        src: import("$lib/img/buttons/doom.gif")
     },
     {
         title: "Nintendo DS",
