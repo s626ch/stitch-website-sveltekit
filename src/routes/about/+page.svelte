@@ -5,14 +5,17 @@
 </script>
 
 <h1 class="bb cnt nfw brd">Okie-taka, but what do you really do?</h1>
+<span class="rrr">
 <a href="/img/PXL_20251231_031344205.jpg" class="rrr ub" target="_blank">
     <img src={suit} alt="literally me!! wearing my stitch suit." />
     Me wearing my new Stitch suit, click to expand.
-</a><br>
+</a>
+<span><br></span>
 <a href="/img/2021-10-29.jpg" class="rrr ub" target="_blank">
     <img src={suit_old} alt="literally me!! wearing my stitch costume." />
     Me wearing my old Stitch suit, click to expand.
 </a>
+</span>
 <h3 class="ub wht nfw jst">
     If you really want a complete laundry list of stuff I have done, and can do...
     <ul>
