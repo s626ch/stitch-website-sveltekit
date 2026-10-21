@@ -1,18 +1,18 @@
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
 @font-face {
     font-family: "BukaBird";
-    src: url("#lib/fonts/BukaBird.ttf") format("truetype");
+    src: url("./lib/fonts/BukaBird.ttf") format("truetype");
 }
 
 :root {
-    --wp: url("#lib/img/beach.png");
-    --wpb: url("#lib/img/beach-blur.png");
-    --wpbd: url("#lib/img/beach-blur-darker.png");
-    --bamboo: url("#lib/img/bamboo/loop.png");
-    --bamboostop: url("#lib/img/bamboo/joint.png");
-    --bambL: url("#lib/img/bamboo/left.png");
-    --bambR: url("#lib/img/bamboo/right.png");
-    --stitchRun: url("#lib/img/stitch_run.gif");
+    --wp: url("./lib/img/beach.png");
+    --wpb: url("./lib/img/beach-blur.png");
+    --wpbd: url("./lib/img/beach-blur-darker.png");
+    --bamboo: url("./lib/img/bamboo/loop.png");
+    --bamboostop: url("./lib/img/bamboo/joint.png");
+    --bambL: url("./lib/img/bamboo/left.png");
+    --bambR: url("./lib/img/bamboo/right.png");
+    --stitchRun: url("./lib/img/stitch_run.gif");
     --pre: #64bde9;
     --dark: #1e1e1e99;
     --oceanL: #ade6f7;
