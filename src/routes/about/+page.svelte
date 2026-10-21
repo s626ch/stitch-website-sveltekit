@@ -1,7 +1,7 @@
 <script lang="ts">
-    import stitch_lol from "$lib/img/stitch_lol.gif";
-    import suit from "$lib/img/suit.png";
-    import suit_old from "$lib/img/suit_old.png";
+    import stitch_lol from "#lib/img/stitch_lol.gif";
+    import suit from "#lib/img/suit.png";
+    import suit_old from "#lib/img/suit_old.png";
 </script>
 
 <h1 class="bb cnt nfw brd">Okie-taka, but what do you really do?</h1>

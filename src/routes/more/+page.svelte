@@ -1,5 +1,5 @@
 <script lang="ts">
-    import stitch_lol from "$lib/img/stitch_lol.gif";
+    import stitch_lol from "#lib/img/stitch_lol.gif";
 </script>
 
 <h1 class="bb cnt nfw brd">More...</h1>

@@ -1,7 +1,7 @@
 <script lang="ts">
-    import { BUTTONS } from "$lib";
-    import Button8831 from "$lib/components/Button8831.svelte";
-    import stitch_lol from "$lib/img/stitch_lol.gif";
+    import { BUTTONS } from "#lib";
+    import Button8831 from "#lib/components/Button8831.svelte";
+    import stitch_lol from "#lib/img/stitch_lol.gif";
 </script>
 
 <h1 class="bb cnt nfw brd">Buttons</h1>

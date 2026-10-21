@@ -1,7 +1,7 @@
 <script>
-    import Lastfm from "$lib/components/Lastfm.svelte";
-    import stitch_lol from "$lib/img/stitch_lol.gif";
-    import BlinkyLiloStitch from "$lib/img/BlinkyLiloStitch.gif";
+    import Lastfm from "#lib/components/Lastfm.svelte";
+    import stitch_lol from "#lib/img/stitch_lol.gif";
+    import BlinkyLiloStitch from "#lib/img/BlinkyLiloStitch.gif";
 
     export let data;
 </script>

@@ -1,5 +1,5 @@
 <script lang="ts">
-    import missing from "$lib/img/missing.png";
+    import missing from "#lib/img/missing.png";
     import { onMount } from "svelte";
 
     export let data;

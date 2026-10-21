@@ -2,9 +2,9 @@
     import { page } from "$app/stores";
     import "../app.css";
 
-    import PALML from "$lib/img/PALML.png";
-    import PALMR from "$lib/img/PALMR.png";
-    import LNS from "$lib/img/LNS.png";
+    import PALML from "#lib/img/PALML.png";
+    import PALMR from "#lib/img/PALMR.png";
+    import LNS from "#lib/img/LNS.png";
 </script>
 
 <svelte:head>
