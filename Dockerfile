@@ -3,7 +3,7 @@ FROM oven/bun:1 AS builder
 COPY . .
 
 RUN bun install
-RUN bun run build
+RUN bun run --bun build
 
 FROM oven/bun:1-alpine AS runner
 
