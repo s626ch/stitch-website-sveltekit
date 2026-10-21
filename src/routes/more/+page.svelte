@@ -18,22 +18,14 @@
         <li><a href="https://owler.cloud/stitch" target="_blank">owler: stitch</a></li>
         <li><a href="https://twitter.com/s626ch/" target="_blank">Twitter: @s626ch</a></li>
         <li><a href="https://twitter.com/sillystitchy/" target="_blank">Fursuit Twitter: @sillystitchy</a></li>
-        <li><a href="https://cohost.org/626" target="_blank">cohost: @626</a></li>
+        <!--<li><a href="https://cohost.org/626" target="_blank">cohost: @626</a></li>-->
         <!-- <li><a href="https://austiblox.net/user/stitch" target="_blank">Austiblox/Rewinder: stitch</a></li> -->
-        <!-- rip austiblox </3 -->
         <li><a href="https://www.roblox.com/users/64166292/profile" target="_blank">Roblox: @s626ch</a></li>
         <li><a href="https://steamcommunity.com/id/s626ch" target="_blank">Steam: @s626ch</a></li>
-        <li><a href="https://socialclub.rockstargames.com/member/stitchiu" target="_blank">RSG Social Club: stitchiu</a></li>
+        <!--<li><a href="https://socialclub.rockstargames.com/member/stitchiu" target="_blank">RSG Social Club: stitchiu</a></li>-->
         <li><a href="https://vrchat.com/home/user/usr_2b16e6d4-4f26-4e11-bbec-b6ab79f51f59" target="_blank">VRChat</a></li>
-        <li>
-            <a href="https://hub.abinteractive.net/social/profile?guid=6a53994d-16fc-7c02-c3a1-1f0031539204"
-                >ChilloutVR: Stitchy</a
-            >
-        </li>
-        <li>
-            <a href="https://hummus.sys42.net/invite/cggJU3x" target="_blank">BetterHummus Server</a> - i helped work on this btw
-            :3
-        </li>
+        <li><a href="https://hub.abinteractive.net/social/profile?guid=6a53994d-16fc-7c02-c3a1-1f0031539204" target="_blank">ChilloutVR: Stitchy</a></li>
+        <!--<li><a href="https://hummus.sys42.net/invite/cggJU3x" target="_blank">BetterHummus Server</a> - i helped work on this btw :3</li>-->
         <li><a href="https://archive.org/details/@stitch_pelekai" target="_blank">Internet Archive: @stitch_pelekai</a></li>
         <li><a href="https://www.last.fm/user/s626ch" target="_blank">last.fm: @s626ch</a></li>
         <li><a href="https://stats.fm/stitch626" target="_blank">spotistats: @stitch626</a></li>
@@ -47,7 +39,7 @@
         <li><a href="https://www.instagram.com/s626ch" target="_blank">Instagram: @s626ch</a></li>
         <li><a href="https://www.youtube.com/@s626ch" target="_blank">YouTube: @s626ch</a></li>
         <li><a href="https://github.com/s626ch" target="_blank">Github: @s626ch</a></li>
-        <li><a href="https://i-love.liloandstit.ch/@stitch" target="_blank">Mastodon: @stitch@i-love.liloandstit.ch</a></li>
+        <!--<li><a href="https://i-love.liloandstit.ch/@stitch" target="_blank">Mastodon: @stitch@i-love.liloandstit.ch</a></li>-->
         <li><a href="https://www.brick-hill.com/user/1158788/" target="_blank">Brick Hill: Experiment 626</a></li>
         <li><a href="https://brickadia.com/users/d5d8adc6-bedc-47e2-9cab-f7b3400e7fc1" target="_blank">Brickadia: @626</a></li>
         <li><a href="https://polytoria.com/users/40998" target="_blank">Polytoria: Stitch</a></li>
